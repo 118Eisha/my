@@ -1,0 +1,10 @@
+1001|John Doe|1000.00|Savings
+1002|Jane Smith|750.50|Checking
+1003|Bob Johnson|600.00|Savings
+1004|Emma Martinez|2500.00|Savings
+1005|Test User|0.00|Test
+1006|Test User|0.00|Test
+1007|Test User|0.00|Test
+1008|Test User|0.00|Test
+1009|Test User|0.00|Test
+1010|clear|6.00|6
