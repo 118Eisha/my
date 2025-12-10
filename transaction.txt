@@ -5,3 +5,5 @@
 20256,Withdraw,500,500,2025-12-09 13:31:45,User Withdraw
 20256,Deposit,200,1200,2025-12-09 19:49:25,User Deposit
 20256,Withdraw,500,700,2025-12-09 19:50:11,User Withdraw
+98765,Withdraw,50,50,2025-12-10 01:08:14,User Withdraw
+98765,Interest,127500,2550,2025-12-10 01:09:13,Interest Applied
