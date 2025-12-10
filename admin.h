@@ -7,7 +7,7 @@ public:
     Admin();
     ~Admin();
 
-    // Login with debug info and case-insensitive name check
+    // Login with debug info and case-insensitive name checking
     bool login(const string& username, const string& password) const;
 
 private:
