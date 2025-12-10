@@ -1,9 +1,9 @@
-#include <windows.h>
-#include <iostream>
-#include <vector>
-#include <fstream>
-#include <sstream>
-#include <limits>
+#include <windows.h>//For window specific console function color, clear screen  
+#include <iostream>//Input output validation
+#include <vector>//Dynamic array/Vectors
+#include <fstream>//for file reading writing
+#include <sstream>// for string stream operation
+#include <limits>// Input validation
 #include "bankaccount.h"
 #include "savingsaccount.h"
 #include "checkingaccount.h"
